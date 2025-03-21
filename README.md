@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br>- 👋 Hi, I’m @DuyAn<br>- 📫 How to contact me 0912875712 or Email: pduyan251003@gmail.com
+## About Me<br>- 👋 Hi, I’m @DuyAn<br>- 📫 How to contact me 0912875712 or Email: duyan251003@gmail.com
 
 
 ## 🌐 Socials:
