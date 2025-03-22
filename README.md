@@ -14,10 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mntuas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🔥 Contributions:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mntuas&theme=radical" alt="GitHub Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mntuas&theme=radical" alt="GitHub Productive Time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mntuas&theme=radical" alt="Most Used Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mntuas&theme=radical" alt="Top Commit Language"/>
 ---
-[![](https://visitcount.itsvg.in/api?id=anqnd2510&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
